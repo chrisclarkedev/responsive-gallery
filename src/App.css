@@ -1,5 +1,7 @@
 .App {
   text-align: center;
+  justify-content: center;
+  padding-right: 43px;
 }
 
 ul {
@@ -22,7 +24,6 @@ img {
   min-width: 100%;
   object-fit: cover;
   vertical-align: bottom;
-  padding-right: 100px;
 }
 
 /* MEDIA QUERY Portrait */
